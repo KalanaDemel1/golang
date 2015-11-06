@@ -7,8 +7,6 @@ import (
 	"runtime"
 )
 
-
-
 func main() {
 	http.HandleFunc("/", hello)
 	bind := fmt.Sprintf("%s:%s", os.Getenv("OPENSHIFT_GO_IP"), os.Getenv("OPENSHIFT_GO_PORT"))
