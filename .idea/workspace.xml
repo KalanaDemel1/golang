@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2252f3cb-4abb-475d-a916-06102aeb28d7" name="Default" comment="" />
+    <list default="true" id="2252f3cb-4abb-475d-a916-06102aeb28d7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/.openshift/markers/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.godir" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/.godir" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/.openshift/action_hooks/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/compile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/control" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/metadata/managed_files.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/metadata/manifest.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hooks/publish-http-url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/setup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/util" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/web.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="golang.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
