@@ -18,5 +18,5 @@ func main() {
 }
 
 func hello(res http.ResponseWriter, req *http.Request) {
-	fmt.Fprintf(res, "hello, world from t2 %s", runtime.Version())
+	fmt.Fprintf(res, "hello, world t2 %s", runtime.Version())
 }
