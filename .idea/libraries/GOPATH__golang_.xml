@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;golang&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../code.google.com" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../test" />
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+      <root url="file://$PROJECT_DIR$/../../speter.net" />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../git.apache.org" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../../github.com/streadway/amqp/_examples" />
+      <root url="file://$PROJECT_DIR$/template/.openshift" />
+      <root url="file://$PROJECT_DIR$/../../github.com/gocql/gocql/testdata" />
+      <root url="file://$PROJECT_DIR$/../testGO1/.idea" />
+      <root url="file://$PROJECT_DIR$/../../bitbucket.org/pkg/inflect/.hg" />
+      <root url="file://$PROJECT_DIR$/../../code.google.com/p/gorest/.hg" />
+      <root url="file://$PROJECT_DIR$/../../golang.org/x/crypto/ssh/testdata" />
+      <root url="file://$PROJECT_DIR$/../../golang.org/x/crypto/sha3/testdata" />
+      <root url="file://$PROJECT_DIR$/../agentDocker/.idea" />
+      <root url="file://$PROJECT_DIR$/../../bitbucket.org/bertimus9/systemstat/testdata" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/.git" />
+      <root url="file://$PROJECT_DIR$/.idea" />
+    </excluded>
+  </library>
+</component>
